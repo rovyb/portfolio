@@ -1,0 +1,6 @@
+TO DO:
+
+
+*About me images/logos - position absolute them in the text container so they are opaque behind the text?
+*Contact me form needs to email something
+*Portfolio projects
